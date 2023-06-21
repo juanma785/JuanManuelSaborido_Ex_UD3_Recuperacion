@@ -15,7 +15,7 @@ public class CrearPartido extends javax.swing.JFrame
         initComponents();
     }
 
-   
+   // 
     public CrearPartido(Apuesta ventana)
     {
         initComponents();
@@ -88,7 +88,7 @@ public class CrearPartido extends javax.swing.JFrame
         }
     }//GEN-LAST:event_tPartidoKeyPressed
 
-    
+    // Ahora necesitamos imprimir en consola
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">

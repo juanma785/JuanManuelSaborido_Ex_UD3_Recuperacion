@@ -10,7 +10,7 @@ import javax.swing.WindowConstants;
  */
 
 public class Apuesta extends javax.swing.JFrame {
-
+// Iniciamos el constructor
    
     public Apuesta()
     {
@@ -186,7 +186,7 @@ public class Apuesta extends javax.swing.JFrame {
         this.listaQuiniela.setModel(modelonuevo);
     }
     
-  
+  // Aquí podemos borrar los partidos
     public void borraPartido(int indice)
     {
         DefaultListModel modelonuevoquiniela = new DefaultListModel();
